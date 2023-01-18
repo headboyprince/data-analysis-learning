@@ -1,0 +1,35 @@
+,movie,year,rating,genre,runtime_min,imdb,metascore,votes,n_imdb
+0,Thor: Love and Thunder,2022,PG-13,"['Action', ' Adventure', ' Comedy']",118,6.4,57,259187,64.0
+1,Nope,2022,R,"['Horror', ' Mystery', ' Sci-Fi']",130,7.0,77,124630,70.0
+2,Moonfall,2022,PG-13,"['Action', ' Adventure', ' Sci-Fi']",130,5.1,41,70552,51.0
+3,Everything Everywhere All at Once,2022,R,"['Action', ' Adventure', ' Comedy']",139,8.1,81,208091,81.0
+4,Morbius,2022,PG-13,"['Action', ' Adventure', ' Horror']",104,5.2,35,109370,52.0
+5,Samaritan,2022,PG-13,"['Action', ' Drama', ' Fantasy']",102,5.7,45,36423,57.0
+6,Prey,2022,R,"['Action', ' Adventure', ' Drama']",99,7.2,71,160977,72.0
+7,Jurassic World Dominion,2022,PG-13,"['Action', ' Adventure', ' Sci-Fi']",147,5.7,38,135784,57.0
+8,Spider-Man: No Way Home,2021,PG-13,"['Action', ' Adventure', ' Fantasy']",148,8.3,71,728102,83.0
+9,DC League of Super-Pets,2022,PG,"['Animation', ' Action', ' Adventure']",105,7.5,56,48365,75.0
+10,Dune,2021,PG-13,"['Action', ' Adventure', ' Drama']",155,8.0,74,612733,80.0
+11,Doctor Strange in the Multiverse of Madness,2022,PG-13,"['Action', ' Adventure', ' Fantasy']",126,7.0,60,384034,70.0
+12,Avatar,2009,PG-13,"['Action', ' Adventure', ' Fantasy']",162,7.8,83,1224978,78.0
+13,Interstellar,2014,PG-13,"['Adventure', ' Drama', ' Sci-Fi']",169,8.6,74,1787134,86.0
+14,Crimes of the Future,2022,R,"['Drama', ' Horror', ' Sci-Fi']",107,5.9,67,22090,59.0
+15,Minions: The Rise of Gru,2022,PG,"['Animation', ' Adventure', ' Comedy']",87,6.6,56,54366,66.0
+16,Lightyear,2022,PG,"['Animation', ' Action', ' Adventure']",100,5.9,60,94068,59.0
+17,Thor: Ragnarok,2017,PG-13,"['Action', ' Adventure', ' Comedy']",130,7.9,74,739173,79.0
+18,Avengers: Endgame,2019,PG-13,"['Action', ' Adventure', ' Drama']",181,8.4,78,1103034,84.0
+19,Tenet,2020,PG-13,"['Action', ' Sci-Fi', ' Thriller']",150,7.3,69,490595,73.0
+20,Inception,2010,PG-13,"['Action', ' Adventure', ' Sci-Fi']",148,8.8,74,2318178,88.0
+21,Jurassic Park,1993,PG-13,"['Action', ' Adventure', ' Sci-Fi']",127,8.2,68,978623,82.0
+22,Eternals,2021,PG-13,"['Action', ' Adventure', ' Fantasy']",156,6.3,52,332752,63.0
+23,Black Widow,2021,PG-13,"['Action', ' Adventure', ' Sci-Fi']",134,6.7,67,369349,67.0
+24,Blade Runner 2049,2017,R,"['Action', ' Drama', ' Mystery']",164,8.0,81,560312,80.0
+25,Ghostbusters: Afterlife,2021,PG-13,"['Adventure', ' Comedy', ' Fantasy']",124,7.1,45,175768,71.0
+26,The Incredible Hulk,2008,PG-13,"['Action', ' Adventure', ' Sci-Fi']",112,6.6,61,489338,66.0
+27,Spiderhead,2022,R,"['Action', ' Crime', ' Drama']",106,5.4,54,52254,54.0
+28,Divergent,2014,PG-13,"['Action', ' Adventure', ' Mystery']",139,6.6,48,458497,66.0
+29,Free Guy,2021,PG-13,"['Action', ' Adventure', ' Comedy']",115,7.1,62,360524,71.0
+30,Guardians of the Galaxy,2014,PG-13,"['Action', ' Adventure', ' Comedy']",121,8.0,76,1164628,80.0
+31,Don't Look Up,2021,R,"['Comedy', ' Drama', ' Sci-Fi']",138,7.2,49,525680,72.0
+32,The Suicide Squad,2021,R,"['Action', ' Adventure', ' Comedy']",132,7.2,72,342566,72.0
+33,A Clockwork Orange,1971,R,"['Crime', ' Sci-Fi']",136,8.3,77,822591,83.0

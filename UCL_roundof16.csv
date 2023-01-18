@@ -1,0 +1,17 @@
+﻿Team Name,Abbreviation,Country,Seeded,Group
+Bayern Munchen,BAY,GER,TRUE,A
+Real Madrid,RMA,SPA,TRUE,B
+Manchester City,MCI,ENG,TRUE,C
+Liverpool,LIV,ENG,TRUE,D
+Chelsea,CHE,ENG,TRUE,E
+Borussia Dortmund,BVB,GER,TRUE,F
+Juventus,JUV,ITA,TRUE,G
+Paris Saint-Germain,PSG,FRA,TRUE,H
+Atletico Madrid,ATM,SPA,FALSE,A
+Borussia Monchengladbach,BMG,GER,FALSE,B
+FC Porto,FCP,POR,FALSE,C
+Atalanta,ATA,ITA,FALSE,D
+Sevilla,SEV,SPA,FALSE,E
+Lazio,LAZ,ITA,FALSE,F
+FC Barcelona,BAR,SPA,FALSE,G
+RB Leipzig,RBL,GER,FALSE,H
